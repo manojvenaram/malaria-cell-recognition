@@ -177,6 +177,8 @@ else:
 ### Confusion Matrix
 ![image](https://github.com/manojvenaram/malaria-cell-recognition/assets/94165064/a8b1b1ac-d2c0-429a-a623-1c8ca161245b)
 
+### Single Data prediction
+![image](https://github.com/manojvenaram/malaria-cell-recognition/assets/94165064/65deaa0b-5cc2-4c19-9ab2-4a4d769d8145)
 
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognized and analyzed the performance .
